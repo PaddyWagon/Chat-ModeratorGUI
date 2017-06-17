@@ -1,0 +1,10 @@
+name: ModeratorGUI
+version: 1.0
+author: [Paddy_Wagon]
+main: com.patrick.Core
+commands:
+   punish:
+      description: View the moderator GUI!
+      usage: /punish <player>
+      permission: punish.open
+      permission-message: You don't have permission!
